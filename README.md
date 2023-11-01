@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Mirch/Mirch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer with over 6 years of experience, focusing on backend and cloud development. Mostly working with AWS, Python, Rust, .NET, and Terraform.  
 
-Here are some ideas to get you started:
+I'm passionate about crafting high-performance, scalable, and secure software solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 How to reach me
+- [Email](mailto:mircea@mirceaoprea.net)
+- [LinkedIn](https://www.linkedin.com/in/mircea-oprea/)
+- [Twitter](https://twitter.com/IAmMirch)
+- [Calendly](https://calendly.com/mircea-hig/consultation-call?month=2023-11)
+
+
+### Support me
+<a href="https://www.buymeacoffee.com/mirch" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
