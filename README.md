@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer with over 6 years of experience, focusing on backend and cloud development. Mostly working with AWS, Python, Rust, .NET, and Terraform.  
+I am a software engineer with over 7 years of experience, focusing on backend and cloud development. Mostly working with AWS, Python, Rust, .NET, and Terraform.  
 
 I'm passionate about crafting high-performance, scalable, and secure software solutions.  
 
